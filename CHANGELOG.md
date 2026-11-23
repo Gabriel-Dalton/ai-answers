@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.214.1](https://github.com/cds-snc/ai-answers/compare/v1.214.0...v1.214.1) (2026-11-23)
+
+
+### Bug Fixes
+
+* catch db-check auth errors instead of unhandled rejections ([3c4a88c](https://github.com/cds-snc/ai-answers/commit/3c4a88c050c7f02bf28bbf9af1ab158ef55c3e5c))
+* restrict db-check to admins and remove client startup probe ([e9d791a](https://github.com/cds-snc/ai-answers/commit/e9d791ac484163dc9e104932f261157513bc614a))
+* restrict db-check to admins and remove client startup probe (AIA-012) ([407684c](https://github.com/cds-snc/ai-answers/commit/407684cc7e2f3c71b6c78651063c9a2d35224483))
+
 ## [1.214.0](https://github.com/cds-snc/ai-answers/compare/v1.213.10...v1.214.0) (2026-11-23)
 
 
